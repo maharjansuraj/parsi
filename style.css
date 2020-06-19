@@ -1,7 +1,11 @@
+.html {
+      height: 100%;
 
+}
 @media screen and (max-width:950px){
 	body {
 		background-color:green;
 		height: 100%;
+		width:950px;
 	}
 }
